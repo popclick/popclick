@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "@opentelemetry/exporter-prometheus": "^0.24.0",
+    "@opentelemetry/sdk-metrics-base": "^0.24.1-alpha.4",
+    "abort-controller": "^3.0.0",
+    "colors": "^1.4.0",
+    "human-readable": "^0.2.1",
+    "ip-matching": "^2.1.2",
+    "lodash": "^4.17.21",
+    "node-fetch": "^2.6.1"
+  }
+}
